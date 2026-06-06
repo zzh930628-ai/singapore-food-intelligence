@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Singapore Food Intelligence</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="dashboard" id="dashboard">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Singapore · 2026-06-06</p>
+            <h1>Food Intelligence</h1>
+          </div>
+          <button class="icon-btn" id="refreshFeed" aria-label="刷新推送">↻</button>
+        </header>
+
+        <section class="hero-dashboard">
+          <div class="hero-copy">
+            <p>今天去哪拍</p>
+            <strong id="heroPick">Milli Sky Dining</strong>
+            <span id="heroReason">综合三指数领先，适合抢新加坡夜景约会餐厅内容。</span>
+          </div>
+          <div class="hero-metrics">
+            <div>
+              <span>今日候选</span>
+              <strong id="candidateCount">13</strong>
+            </div>
+            <div>
+              <span>建议优先拍</span>
+              <strong id="priorityCount">4</strong>
+            </div>
+          </div>
+        </section>
+
+        <section class="today-plan">
+          <div>
+            <span>拍摄优先级</span>
+            <strong id="shootPlan">先拍高流量新店，再补高端收藏型内容。</strong>
+          </div>
+          <button class="secondary-btn" id="topFiveButton" type="button">只看今日 Top 5</button>
+        </section>
+
+        <section class="score-guide">
+          <div>
+            <strong>新店开业指数</strong>
+            <span>开业时间 40% + 小红书帖子少 20% + Google 评论增长 20% + IG 增长 20%。</span>
+          </div>
+          <div>
+            <strong>值得探店指数</strong>
+            <span>评分、评论量、菜品卖相、互动率、独特卖点和出片率。</span>
+          </div>
+          <div>
+            <strong>流量机会指数</strong>
+            <span>装修视觉、封面冲击、小红书增长、竞争程度和话题钩子。</span>
+          </div>
+        </section>
+
+        <section class="automation-panel">
+          <div class="section-title">
+            <h2>自动推送</h2>
+            <span>目标：每天上午 10 点生成 Top 5</span>
+          </div>
+          <div class="automation-grid">
+            <div>
+              <span>采集</span>
+              <strong>媒体新店榜 + Google + IG</strong>
+            </div>
+            <div>
+              <span>处理</span>
+              <strong>去重、分类、三指数评分</strong>
+            </div>
+            <div>
+              <span>推送</span>
+              <strong>Dashboard / Telegram / Email</strong>
+            </div>
+          </div>
+        </section>
+
+        <nav class="tabs category-tabs" aria-label="内容筛选">
+          <button class="active" data-filter="all">全部</button>
+          <button data-filter="local_chinese">中餐</button>
+          <button data-filter="cafe">咖啡馆</button>
+          <button data-filter="bakery">Bakehouse</button>
+          <button data-filter="fine_dining">Fine dining</button>
+          <button data-filter="michelin">米其林背景</button>
+          <button data-filter="japan_korea">日韩餐</button>
+          <button data-filter="western">西餐</button>
+        </nav>
+
+        <section class="feed" id="feed"></section>
+
+        <section class="source-panel">
+          <h2>数据源状态</h2>
+          <p>当前 Dashboard 使用公开来源样例数据。下一步可把这些来源接成每日自动采集。</p>
+          <div class="source-status">
+            <span>Time Out Singapore</span><b>已纳入</b>
+            <span>The Ordinary Patrons</span><b>已纳入</b>
+            <span>The Ranting Panda</span><b>已纳入</b>
+            <span>Great New Places</span><b>已纳入</b>
+            <span>Google Maps / IG / 小红书</span><b>待接入</b>
+          </div>
+          <div class="source-links">
+            <a href="https://www.timeout.com/singapore/news/5-new-restaurants-in-singapore-to-check-out-this-june-2026-060126" target="_blank">Time Out Singapore</a>
+            <a href="https://ordinarypatrons.com/new-restaurants-in-singapore/" target="_blank">The Ordinary Patrons</a>
+            <a href="https://therantingpanda.com/2026/06/01/food-scoops-new-and-buzzing-singapore-restaurants-in-june-2026/" target="_blank">The Ranting Panda</a>
+            <a href="https://greatnewplaces.com/" target="_blank">Great New Places</a>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
