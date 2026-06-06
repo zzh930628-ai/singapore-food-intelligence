@@ -1,0 +1,1535 @@
+{
+  "updatedAt": "2026-06-06T09:23:32.059Z",
+  "sourceCount": 4,
+  "discoveredCount": 94,
+  "errors": [],
+  "places": [
+    {
+      "name": "Hikiniku To Come",
+      "category": [
+        "japan_korea",
+        "michelin",
+        "fine_dining",
+        "western"
+      ],
+      "typeLabel": "日韩餐 / 米其林/名厨背景",
+      "area": "VivoCity",
+      "opened": "2026-06-06",
+      "spend": "$$$$",
+      "visitScore": 99,
+      "openingScore": 100,
+      "trafficScore": 92,
+      "image": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?auto=format&fit=crop&w=900&q=80",
+      "hook": "g crab with white pepper and salted egg yolk sauce, while the cocktail menu leans light an",
+      "shootFor": [
+        "探店",
+        "聚餐",
+        "约会"
+      ],
+      "prediction": "未来两周有机会成为热门打卡点，建议优先查看现场出片条件。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：3. Hikiniku To Come 新加坡新店值不值得冲",
+      "proof": "自动采集自 Time Out Singapore。",
+      "source": "https://www.timeout.com/singapore/news/5-new-restaurants-in-singapore-to-check-out-this-june-2026-060126"
+    },
+    {
+      "name": "Jiin Omakase",
+      "category": [
+        "japan_korea",
+        "michelin",
+        "fine_dining"
+      ],
+      "typeLabel": "日韩餐 / 米其林/名厨背景",
+      "area": "Sentosa",
+      "opened": "2026-06-06",
+      "spend": "$$$$",
+      "visitScore": 99,
+      "openingScore": 100,
+      "trafficScore": 92,
+      "image": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?auto=format&fit=crop&w=900&q=80",
+      "hook": "t overpowering the ingredients. Expect quality produce like Korean tiger prawns, scallops ",
+      "shootFor": [
+        "探店",
+        "聚餐",
+        "约会"
+      ],
+      "prediction": "未来两周有机会成为热门打卡点，建议优先查看现场出片条件。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：5. Jiin Omakase 新加坡新店值不值得冲",
+      "proof": "自动采集自 Time Out Singapore。",
+      "source": "https://www.timeout.com/singapore/news/5-new-restaurants-in-singapore-to-check-out-this-june-2026-060126"
+    },
+    {
+      "name": "Milli Sky Dining",
+      "category": [
+        "local_chinese",
+        "fine_dining"
+      ],
+      "typeLabel": "本地创意菜 / Fine dining",
+      "area": "National Gallery",
+      "opened": "2026-06",
+      "spend": "$$$",
+      "visitScore": 94,
+      "openingScore": 98,
+      "trafficScore": 96,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=900&q=80",
+      "hook": "国家美术馆屋顶、夜景视野、本地风味重新演绎。",
+      "shootFor": [
+        "探店",
+        "约会",
+        "夜景"
+      ],
+      "prediction": "未来两周有机会成为高级约会餐厅热门打卡点。",
+      "why": "很适合做“新加坡约会餐厅”“带外地朋友吃什么”的视觉型笔记，场景辨识度强。",
+      "angle": "标题角度：国家美术馆屋顶新餐厅，夜景 + 新加坡味道值不值得冲",
+      "proof": "Time Out 6 月新店榜提到它是 National Gallery rooftop 新餐厅。",
+      "source": "https://www.timeout.com/singapore/news/5-new-restaurants-in-singapore-to-check-out-this-june-2026-060126"
+    },
+    {
+      "name": "Torikizoku",
+      "category": [
+        "japan_korea"
+      ],
+      "typeLabel": "日韩餐",
+      "area": "VivoCity",
+      "opened": "2026-06",
+      "spend": "$",
+      "visitScore": 93,
+      "openingScore": 99,
+      "trafficScore": 95,
+      "image": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?auto=format&fit=crop&w=900&q=80",
+      "hook": "日本 600+ 门店烤鸡串连锁，新加坡首店，统一低价。",
+      "shootFor": [
+        "排队实测",
+        "性价比",
+        "朋友聚餐"
+      ],
+      "prediction": "首店话题强，适合抢第一波排队和价格测评流量。",
+      "why": "品牌自带话题，新加坡首店 + VivoCity 人流 + 低价菜单，容易做排队实测和避雷测评。",
+      "angle": "标题角度：日本烤串王开到 VivoCity，$3.90 两串到底香不香",
+      "proof": "Time Out 6 月新店榜称 VivoCity 店是 Torikizoku 新加坡店。",
+      "source": "https://www.timeout.com/singapore/news/5-new-restaurants-in-singapore-to-check-out-this-june-2026-060126"
+    },
+    {
+      "name": "VISITORS",
+      "category": [
+        "cafe",
+        "japan_korea"
+      ],
+      "typeLabel": "咖啡馆 / 韩系",
+      "area": "Tanjong Pagar",
+      "opened": "2026-06-02",
+      "spend": "$$",
+      "visitScore": 89,
+      "openingScore": 100,
+      "trafficScore": 94,
+      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=900&q=80",
+      "hook": "Tanjong Pagar 新韩系咖啡馆，主打 Seoul contemporary cafe 质感。",
+      "shootFor": [
+        "穿搭",
+        "闺蜜聚会",
+        "咖啡"
+      ],
+      "prediction": "韩系咖啡馆适配小红书审美，封面好看就有机会起量。",
+      "why": "韩系咖啡馆天然适合小红书封面，目标受众明确，适合做穿搭 + 咖啡 + 周末路线。",
+      "angle": "标题角度：Tanjong Pagar 新韩系咖啡馆，像不像飞去首尔",
+      "proof": "Great New Places 6 月 2 日发布 VISITORS 新开消息。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Mimmo Bakery Cafe",
+      "category": [
+        "bakery",
+        "cafe"
+      ],
+      "typeLabel": "面包店 / 咖啡馆",
+      "area": "Asia Square Tower 1",
+      "opened": "2026-06-02",
+      "spend": "$$",
+      "visitScore": 90,
+      "openingScore": 100,
+      "trafficScore": 91,
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+      "hook": "CBD 新面包咖啡店，香港 Quarry Bay 品牌背景。",
+      "shootFor": [
+        "早餐",
+        "咖啡",
+        "打工人路线"
+      ],
+      "prediction": "CBD 受众精准，工作日早午餐内容有稳定收藏潜力。",
+      "why": "上班族场景强，适合做“CBD 早餐/午休咖啡”路线，面包和咖啡都容易拍出食欲感。",
+      "angle": "标题角度：Asia Square 新开面包咖啡店，CBD 打工人早餐有新选择",
+      "proof": "Great New Places 6 月 2 日记录 Mimmo Bakery Cafe 在 Asia Square Tower 1 开业。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Bouillon Gavroche at Mandarin Gallery",
+      "category": [
+        "michelin",
+        "fine_dining",
+        "western"
+      ],
+      "typeLabel": "米其林/名厨背景 / Fine dining",
+      "area": "Mandarin Gallery",
+      "opened": "2026-06-06",
+      "spend": "$$$$",
+      "visitScore": 94,
+      "openingScore": 98,
+      "trafficScore": 88,
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80",
+      "hook": "restaurant/\" type=\"post\" id=\"199374\">more . ASIN 38 Carpenter Street, Singapore 059917 Tel",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Bouillon Gavroche at Mandarin Gallery 新加坡新店值不值得冲",
+      "proof": "自动采集自 The Ordinary Patrons。",
+      "source": "https://ordinarypatrons.com/new-restaurants-in-singapore/"
+    },
+    {
+      "name": "Milli Sky Dining, Bar & Lounge",
+      "category": [
+        "japan_korea",
+        "fine_dining"
+      ],
+      "typeLabel": "日韩餐 / Fine dining",
+      "area": "VivoCity",
+      "opened": "2026-06-06",
+      "spend": "$$$$",
+      "visitScore": 87,
+      "openingScore": 100,
+      "trafficScore": 92,
+      "image": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?auto=format&fit=crop&w=900&q=80",
+      "hook": "chicken thigh and leek, as well as the grilled fluffy grated yam hotplate. Our favourite d",
+      "shootFor": [
+        "探店",
+        "聚餐",
+        "约会"
+      ],
+      "prediction": "未来两周有机会成为热门打卡点，建议优先查看现场出片条件。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：2. Milli Sky Dining, Bar & Lounge 新加坡新店值不值得冲",
+      "proof": "自动采集自 Time Out Singapore。",
+      "source": "https://www.timeout.com/singapore/news/5-new-restaurants-in-singapore-to-check-out-this-june-2026-060126"
+    },
+    {
+      "name": "Satori",
+      "category": [
+        "japan_korea"
+      ],
+      "typeLabel": "日韩餐",
+      "area": "Amoy Street",
+      "opened": "2026-06",
+      "spend": "$$",
+      "visitScore": 88,
+      "openingScore": 97,
+      "trafficScore": 88,
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=900&q=80",
+      "hook": "Amoy Street 新烧鸟店，深红灯光和 $3.80 起串烧。",
+      "shootFor": [
+        "宵夜",
+        "下班小酌",
+        "朋友聚餐"
+      ],
+      "prediction": "夜间氛围和低价串烧能做强标题，但需要现场灯光拍好。",
+      "why": "画面有夜间氛围，价格切入点清楚，适合下班小酌、约会、朋友聚餐三种选题。",
+      "angle": "标题角度：Amoy Street 新烧鸟店，$3.80 起能不能吃爽",
+      "proof": "The Ranting Panda 6 月新店提到 Satori 在 Amoy Street 新开。",
+      "source": "https://therantingpanda.com/2026/06/01/food-scoops-new-and-buzzing-singapore-restaurants-in-june-2026/"
+    },
+    {
+      "name": "From Hawker Fare to Michelin Star Restaurants",
+      "category": [
+        "michelin"
+      ],
+      "typeLabel": "米其林/名厨背景",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$$$",
+      "visitScore": 93,
+      "openingScore": 100,
+      "trafficScore": 80,
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80",
+      "hook": "entor-flip-box__front\"> CULINARY From Hawker Fare to Michelin Star Restaurants With an ext",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：From Hawker Fare to Michelin Star Restaurants 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Mary Grace at Tras Street",
+      "category": [
+        "bakery",
+        "cafe",
+        "japan_korea"
+      ],
+      "typeLabel": "Bakehouse / 面包甜点 / 咖啡馆 / 甜点",
+      "area": "National Gallery",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 85,
+      "openingScore": 98,
+      "trafficScore": 90,
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+      "hook": "r noopener\">View Menu Seoul & So Level 5, National Gallery Singapore 1 St Andrew’s Road, S",
+      "shootFor": [
+        "咖啡",
+        "穿搭",
+        "闺蜜聚会"
+      ],
+      "prediction": "未来两周有机会成为热门打卡点，建议优先查看现场出片条件。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Mary Grace at Tras Street 新加坡新店值不值得冲",
+      "proof": "自动采集自 The Ordinary Patrons。",
+      "source": "https://ordinarypatrons.com/new-restaurants-in-singapore/"
+    },
+    {
+      "name": "General Terms",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 88,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "e=\"widget\" data-widget_type=\"heading.default\"> TERMS & CONDITIONS Updated at 2022-01-12 Ge",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：General Terms 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Your Suggestions",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 88,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "that apply to transactions at Great New Places. We’ll be as brief as our attorneys will al",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Your Suggestions 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Your Consent",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 88,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "ny of the issues you are going through with our product. Your Suggestions Any feedback, co",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Your Consent 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Term and Termination",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 95,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "r accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, q",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Term and Termination 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Copyright Infringement Notice",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 95,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "his Agreement. You may also terminate this Agreement by deleting the website and all copie",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Copyright Infringement Notice 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Limitation of Liability",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 88,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "information or content provided through the website; or (iv) that the website, its servers",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Limitation of Liability 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Notice of Dispute",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "西餐",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 88,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "UTE RELATING TO CLAIMS FOR INJUNCTIVE OR EQUITABLE RELIEF REGARDING THE ENFORCEMENT OR VAL",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Notice of Dispute 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Binding Arbitration",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 88,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "i/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"ddb4b3bbb29dbaafb8bca9b3b8aaadb1b",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Binding Arbitration 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Quan Hotpot",
+      "category": [
+        "local_chinese"
+      ],
+      "typeLabel": "中餐 / 本地菜",
+      "area": "VivoCity",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 95,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=900&q=80",
+      "hook": "or dipped in raw egg for a silky texture. There are over eight condiments and sauces for e",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：4. Quan Hotpot 新加坡新店值不值得冲",
+      "proof": "自动采集自 Time Out Singapore。",
+      "source": "https://www.timeout.com/singapore/news/5-new-restaurants-in-singapore-to-check-out-this-june-2026-060126"
+    },
+    {
+      "name": "Mimmo Bakery Café",
+      "category": [
+        "bakery"
+      ],
+      "typeLabel": "Bakehouse / 面包甜点",
+      "area": "Asia Square",
+      "opened": "2026-06-02",
+      "spend": "$$",
+      "visitScore": 78,
+      "openingScore": 96,
+      "trafficScore": 95,
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+      "hook": "My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==\" class=\"lazyload\" style=\"--smush-placeholder-width: 768px",
+      "shootFor": [
+        "甜点",
+        "新品测评",
+        "早餐"
+      ],
+      "prediction": "未来两周有机会成为热门打卡点，建议优先查看现场出片条件。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Mimmo Bakery Café 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Jellyfish Sushi at New Bahru",
+      "category": [
+        "bakery",
+        "japan_korea",
+        "michelin"
+      ],
+      "typeLabel": "Bakehouse / 面包甜点 / 日韩餐",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$$$",
+      "visitScore": 89,
+      "openingScore": 98,
+      "trafficScore": 82,
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+      "hook": "Boulevard, Singapore Tel : +65 8926 0726 Opening Hours: Monday to Friday: Breakfast: 8.30a",
+      "shootFor": [
+        "甜点",
+        "新品测评",
+        "早餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Jellyfish Sushi at New Bahru 新加坡新店值不值得冲",
+      "proof": "自动采集自 The Ordinary Patrons。",
+      "source": "https://ordinarypatrons.com/new-restaurants-in-singapore/"
+    },
+    {
+      "name": "Hachi Restaurant",
+      "category": [
+        "japan_korea",
+        "michelin",
+        "fine_dining"
+      ],
+      "typeLabel": "日韩餐 / 米其林/名厨背景",
+      "area": "Singapore",
+      "opened": "2026-05-26",
+      "spend": "$$$$",
+      "visitScore": 93,
+      "openingScore": 82,
+      "trafficScore": 92,
+      "image": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?auto=format&fit=crop&w=900&q=80",
+      "hook": "urant-1536x1053.jpg 1536w\" data-sizes=\"(max-width: 1750px) 100vw, 1750px\" src=\"data:image/",
+      "shootFor": [
+        "探店",
+        "聚餐",
+        "约会"
+      ],
+      "prediction": "未来两周有机会成为热门打卡点，建议优先查看现场出片条件。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Hachi Restaurant 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "ONE Ocean @ Science Centre",
+      "category": [
+        "bakery",
+        "cafe"
+      ],
+      "typeLabel": "Bakehouse / 面包甜点 / 咖啡馆 / 甜点",
+      "area": "Singapore",
+      "opened": "2026-06-01",
+      "spend": "$$",
+      "visitScore": 78,
+      "openingScore": 94,
+      "trafficScore": 95,
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+      "hook": "ciPjwvc3ZnPg==\" class=\"lazyload\" style=\"--smush-placeholder-width: 768px; --smush-placehol",
+      "shootFor": [
+        "咖啡",
+        "穿搭",
+        "闺蜜聚会"
+      ],
+      "prediction": "未来两周有机会成为热门打卡点，建议优先查看现场出片条件。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：ONE Ocean @ Science Centre 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Definitions and key terms",
+      "category": [
+        "michelin",
+        "fine_dining"
+      ],
+      "typeLabel": "米其林/名厨背景 / Fine dining",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$$$",
+      "visitScore": 87,
+      "openingScore": 100,
+      "trafficScore": 80,
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80",
+      "hook": "amp; Conditions as the &#8220;Great New Places Service&#8221;). You are agreeing to be bou",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Definitions and key terms 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Seoul & So at National Gallery Singapore",
+      "category": [
+        "japan_korea"
+      ],
+      "typeLabel": "日韩餐",
+      "area": "National Gallery",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 85,
+      "openingScore": 98,
+      "trafficScore": 84,
+      "image": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?auto=format&fit=crop&w=900&q=80",
+      "hook": "70 Collyer Quay, #01-01 Customs House Singapore 049323 Tel: +65 6029 3225 Opening Hours: M",
+      "shootFor": [
+        "探店",
+        "聚餐",
+        "约会"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Seoul & So at National Gallery Singapore 新加坡新店值不值得冲",
+      "proof": "自动采集自 The Ordinary Patrons。",
+      "source": "https://ordinarypatrons.com/new-restaurants-in-singapore/"
+    },
+    {
+      "name": "Elephant Grounds at Guoco Midtown",
+      "category": [
+        "bakery",
+        "cafe"
+      ],
+      "typeLabel": "Bakehouse / 面包甜点 / 咖啡馆 / 甜点",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 79,
+      "openingScore": 98,
+      "trafficScore": 90,
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+      "hook": "gs%3DeyJpZCI6IjM1OSIsInRvZ2dsZSI6ZmFsc2V9\" target=\"_blank\" rel=\"noreferrer noopener\">View ",
+      "shootFor": [
+        "咖啡",
+        "穿搭",
+        "闺蜜聚会"
+      ],
+      "prediction": "未来两周有机会成为热门打卡点，建议优先查看现场出片条件。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Elephant Grounds at Guoco Midtown 新加坡新店值不值得冲",
+      "proof": "自动采集自 The Ordinary Patrons。",
+      "source": "https://ordinarypatrons.com/new-restaurants-in-singapore/"
+    },
+    {
+      "name": "The Ranting Panda",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 85,
+      "openingScore": 98,
+      "trafficScore": 84,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "mplate-default single single-post postid-71640 single-format-standard wp-theme-premiummh-m",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：The Ranting Panda 新加坡新店值不值得冲",
+      "proof": "自动采集自 The Ranting Panda。",
+      "source": "https://therantingpanda.com/2026/06/01/food-scoops-new-and-buzzing-singapore-restaurants-in-june-2026/"
+    },
+    {
+      "name": "of blacks and whites and everything else",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 85,
+      "openingScore": 98,
+      "trafficScore": 84,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "0 single-format-standard wp-theme-premiummh-magazine customizer-styles-applied jetpack-reb",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：of blacks and whites and everything else 新加坡新店值不值得冲",
+      "proof": "自动采集自 The Ranting Panda。",
+      "source": "https://therantingpanda.com/2026/06/01/food-scoops-new-and-buzzing-singapore-restaurants-in-june-2026/"
+    },
+    {
+      "name": "License",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 78,
+      "openingScore": 100,
+      "trafficScore": 88,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "materials on this site, even if Great New Places team or an authorized representative has ",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：License 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Entire Agreement",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 78,
+      "openingScore": 100,
+      "trafficScore": 88,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "the right, at its sole discretion, to modify or replace this Agreement at any time. If a r",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Entire Agreement 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Updates to Our Terms",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 78,
+      "openingScore": 100,
+      "trafficScore": 88,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "zed to use Great New Places. Entire Agreement The Agreement constitutes the entire agreeme",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Updates to Our Terms 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Intellectual Property",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "西餐",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 78,
+      "openingScore": 100,
+      "trafficScore": 88,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "ur Service and policies, and we may need to make changes to these Terms so that they accur",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Intellectual Property 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Tiong Bahru Bakery @ Raffles City",
+      "category": [
+        "bakery"
+      ],
+      "typeLabel": "Bakehouse / 面包甜点",
+      "area": "Raffles City",
+      "opened": "2026-05-31",
+      "spend": "$$",
+      "visitScore": 78,
+      "openingScore": 92,
+      "trafficScore": 95,
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+      "hook": "==\" class=\"lazyload\" style=\"--smush-placeholder-width: 768px; --smush-placeholder-aspect-r",
+      "shootFor": [
+        "甜点",
+        "新品测评",
+        "早餐"
+      ],
+      "prediction": "未来两周有机会成为热门打卡点，建议优先查看现场出片条件。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Tiong Bahru Bakery @ Raffles City 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "& Cafes in Singapore 2026",
+      "category": [
+        "cafe",
+        "michelin",
+        "fine_dining"
+      ],
+      "typeLabel": "咖啡馆 / 甜点 / 米其林/名厨背景",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$$$",
+      "visitScore": 83,
+      "openingScore": 98,
+      "trafficScore": 82,
+      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=900&q=80",
+      "hook": "u-item-has-children) > .wrap > a { padding-right: calc(1em + (18px*2)); text-wrap: wrap; w",
+      "shootFor": [
+        "咖啡",
+        "穿搭",
+        "闺蜜聚会"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：& Cafes in Singapore 2026 新加坡新店值不值得冲",
+      "proof": "自动采集自 The Ordinary Patrons。",
+      "source": "https://ordinarypatrons.com/new-restaurants-in-singapore/"
+    },
+    {
+      "name": "Singapore Welcomed Nearly 20 Million Tourists Before The Pandemic",
+      "category": [
+        "fine_dining"
+      ],
+      "typeLabel": "Fine dining",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$$$",
+      "visitScore": 82,
+      "openingScore": 100,
+      "trafficScore": 80,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=900&q=80",
+      "hook": "elementor-flip-box__front\"> TRAVEL Singapore Welcomed Nearly 20 Million Tourists Before Th",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Singapore Welcomed Nearly 20 Million Tourists Before The Pandemic 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Restrictions",
+      "category": [
+        "michelin",
+        "fine_dining"
+      ],
+      "typeLabel": "米其林/名厨背景 / Fine dining",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$$$",
+      "visitScore": 82,
+      "openingScore": 100,
+      "trafficScore": 80,
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80",
+      "hook": "Great New Places as described in the relative terms (if available) and on this platform. l",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Restrictions 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Tutto by Da Paolo at Holland Village",
+      "category": [
+        "cafe",
+        "western"
+      ],
+      "typeLabel": "咖啡馆 / 甜点 / 西餐",
+      "area": "Sentosa",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 74,
+      "openingScore": 98,
+      "trafficScore": 90,
+      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=900&q=80",
+      "hook": "ragraph\"> People People Brewing Co. (PPBc) 26 Sentosa Gateway, #B1-209 to #B1-217 Singapor",
+      "shootFor": [
+        "咖啡",
+        "穿搭",
+        "闺蜜聚会"
+      ],
+      "prediction": "未来两周有机会成为热门打卡点，建议优先查看现场出片条件。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Tutto by Da Paolo at Holland Village 新加坡新店值不值得冲",
+      "proof": "自动采集自 The Ordinary Patrons。",
+      "source": "https://ordinarypatrons.com/new-restaurants-in-singapore/"
+    },
+    {
+      "name": "Park Side at Singapore Botanic Gardens",
+      "category": [
+        "bakery",
+        "cafe"
+      ],
+      "typeLabel": "Bakehouse / 面包甜点 / 咖啡馆 / 甜点",
+      "area": "Tras Street",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 74,
+      "openingScore": 98,
+      "trafficScore": 90,
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+      "hook": "ify.com/s/files/1/0643/2774/5613/files/MG_DigitalMenu_Mobile_1103_FOOD.pdf?v=1773282415\">V",
+      "shootFor": [
+        "咖啡",
+        "穿搭",
+        "闺蜜聚会"
+      ],
+      "prediction": "未来两周有机会成为热门打卡点，建议优先查看现场出片条件。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Park Side at Singapore Botanic Gardens 新加坡新店值不值得冲",
+      "proof": "自动采集自 The Ordinary Patrons。",
+      "source": "https://ordinarypatrons.com/new-restaurants-in-singapore/"
+    },
+    {
+      "name": "People People Brewing Co. at Resorts World Sentosa",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "西餐",
+      "area": "Sentosa",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 79,
+      "openingScore": 98,
+      "trafficScore": 84,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "raph\">Tel: +65 8522 0998 Opening hours: 11.30 am to 10 pm No reservations, Walk-ins only V",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：People People Brewing Co. at Resorts World Sentosa 新加坡新店值不值得冲",
+      "proof": "自动采集自 The Ordinary Patrons。",
+      "source": "https://ordinarypatrons.com/new-restaurants-in-singapore/"
+    },
+    {
+      "name": "Les Canons at IOI Central Boulevard Towers",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 79,
+      "openingScore": 98,
+      "trafficScore": 84,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "side-Menu.pdf\">View Menu Park Side Singapore Botanic Gardens Nassim Gate, Visitor Centre 1",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Les Canons at IOI Central Boulevard Towers 新加坡新店值不值得冲",
+      "proof": "自动采集自 The Ordinary Patrons。",
+      "source": "https://ordinarypatrons.com/new-restaurants-in-singapore/"
+    },
+    {
+      "name": "TERMS & CONDITIONS",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：TERMS & CONDITIONS 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Links to Other Websites",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "laces. Great New Places shall be free to use, copy, modify, publish, or redistribute the S",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Links to Other Websites 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Cookies",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "h websites, and such websites are not investigated, monitored or checked for accuracy or c",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Cookies 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Changes To Our Terms & Conditions",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "to their use. However, without these cookies, certain functionality like videos may become",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Changes To Our Terms & Conditions 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Third-Party Services.",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "r products services) or provide links to third-party websites or services (&#8220;Third- P",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Third-Party Services. 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Indemnification",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "pyright owner or a person authorized to act on his behalf; (b) identification of the mater",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Indemnification 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "No Warranties",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "nder penalty of perjury you are authorized to act on behalf of the owner. Indemnification ",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：No Warranties 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Severability",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "se of or inability to use the website, third-party software and/or third-party hardware us",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Severability 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Waiver",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "m of this Agreement shall be deemed a further or continuing waiver of such term or any oth",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Waiver 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Amendments to this Agreement",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "waiver of any subsequent breach. o failure to exercise, and no delay in exercising, on the",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Amendments to this Agreement 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Agreement to Arbitrate",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "西餐",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "s or other providers of such material and are protected by Singapore and international cop",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Agreement to Arbitrate 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Disclaimer",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 83,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "e and are solely responsible for compliance with local laws, if and to the extent local la",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Disclaimer 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "KOU at Ichigo Ichie",
+      "category": [
+        "japan_korea",
+        "michelin",
+        "western"
+      ],
+      "typeLabel": "日韩餐 / 米其林/名厨背景",
+      "area": "Singapore",
+      "opened": "2026-05-27",
+      "spend": "$$$$",
+      "visitScore": 93,
+      "openingScore": 84,
+      "trafficScore": 80,
+      "image": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?auto=format&fit=crop&w=900&q=80",
+      "hook": "ichie-1536x1053.jpg 1536w\" data-sizes=\"(max-width: 1750px) 100vw, 1750px\" src=\"data:image/",
+      "shootFor": [
+        "探店",
+        "聚餐",
+        "约会"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：KOU at Ichigo Ichie 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Rant here! Cancel reply",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 74,
+      "openingScore": 98,
+      "trafficScore": 84,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "ar avatar-113' height='113' width='113' loading='lazy' decoding='async' /> About theRantin",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Rant here! Cancel reply 新加坡新店值不值得冲",
+      "proof": "自动采集自 The Ranting Panda。",
+      "source": "https://therantingpanda.com/2026/06/01/food-scoops-new-and-buzzing-singapore-restaurants-in-june-2026/"
+    },
+    {
+      "name": "Chimi’s Especial at Collyer Quay",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "西餐",
+      "area": "Collyer Quay",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 85,
+      "openingScore": 98,
+      "trafficScore": 72,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "lass=\"wp-block-paragraph\"> Tutto by Da Paolo 7 Holland Village Way, One Holland Village, #",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Chimi’s Especial at Collyer Quay 新加坡新店值不值得冲",
+      "proof": "自动采集自 The Ordinary Patrons。",
+      "source": "https://ordinarypatrons.com/new-restaurants-in-singapore/"
+    },
+    {
+      "name": "Singapore Town Is A Party Town",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 78,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "tor-flip-box__front\"> NIGHTLIFE Singapore Town Is A Party Town From neighbourhood bars and",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Singapore Town Is A Party Town 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "It's a Shopping Paradise Like None Other On The Planet",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 78,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "elementor-flip-box__front\"> STORES It's a Shopping Paradise Like None Other On The Planet ",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：It's a Shopping Paradise Like None Other On The Planet 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "Get Your Sweat On, Here There And Everywhere",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 78,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "SPORTS & RECREATION Get Your Sweat On, Here There And Everywhere Work hard, play harder. T",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：Get Your Sweat On, Here There And Everywhere 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    },
+    {
+      "name": "HEALTH & BEAUTY",
+      "category": [
+        "western"
+      ],
+      "typeLabel": "新餐厅",
+      "area": "Singapore",
+      "opened": "2026-06-06",
+      "spend": "$$",
+      "visitScore": 78,
+      "openingScore": 100,
+      "trafficScore": 76,
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+      "hook": "entor-flip-box--effect-flip elementor-flip-box--direction-up elementor-widget elementor-wi",
+      "shootFor": [
+        "探店",
+        "约会",
+        "朋友聚餐"
+      ],
+      "prediction": "适合作为候选线索，建议结合 Google 评论和社媒互动再决定。",
+      "why": "由公开新店来源自动采集，已按新鲜度、话题度和视觉潜力做初步评分。",
+      "angle": "标题角度：HEALTH & BEAUTY 新加坡新店值不值得冲",
+      "proof": "自动采集自 Great New Places。",
+      "source": "https://greatnewplaces.com/"
+    }
+  ]
+}
